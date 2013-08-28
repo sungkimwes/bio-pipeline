@@ -45,3 +45,6 @@ colorbar()
 norm_data = h/(bgal_data-0.07)
 imshow(norm_data)
 
+    print 'test_fact'
+
+print 'tttt'
